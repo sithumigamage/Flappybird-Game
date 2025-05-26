@@ -5,7 +5,7 @@ creating a playable, smooth Flappy Bird clone in Java with proper collision dete
 
 A simple Flappy Bird game clone built using **Java Swing** and **AWT** libraries. The project mimics the original Flappy Bird mechanics, where the player controls a bird that must fly between sets of pipes without hitting them.
 
-![screenshot](./screenshot.png) <!-- Optional: Add a screenshot of the game window -->
+
 
 ## 🚀 Features
 
